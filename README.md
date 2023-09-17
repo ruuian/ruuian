@@ -2,7 +2,9 @@
 
 <p>I'm a person who always relies on the right brain, but in this place the left brain often works ~</p>
 
-
+<h2>About Me</h2>
+<p>Mahasiswa Program Studi Informatika, Universitas Bengkulu.</p>
+<p>Fokus dalam dunia kreatif dan sekarang punya ketertarikan dalam dunia programming.</p>
 <!--
 **ruuian/ruuian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
