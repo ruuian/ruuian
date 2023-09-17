@@ -6,7 +6,7 @@
 <p>Mahasiswa Program Studi Informatika, Universitas Bengkulu.</p>
 <p>Fokus dalam dunia kreatif dan sekarang punya ketertarikan dalam dunia programming.</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruuian"/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruuian)
 
