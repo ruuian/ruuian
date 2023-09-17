@@ -1,6 +1,6 @@
 <h1>Hi, i'm Peru Pagustian 👋</h1> 
 
-
+<p>I'm a person who always relies on the right brain, but in this place the left brain often works ~</p>
 
 
 <!--
